@@ -38,7 +38,15 @@ This is my Capstone project focusing on blablabla
 - Data 2
 - Data 3
 
-## Endpoints
-- Endpoint 1
-- Endpoint 2
-- Endpoint 3
+-----
+
+## Roadmap
+### Day 1
+- [x] Fill out project form
+- [x] Importing Dataset
+- [ ] Fine tune Model
+### Day 2
+- [ ] Build MVP
+- [ ] Build Stretch Features
+### Day 3
+- [ ] Polish MVP
